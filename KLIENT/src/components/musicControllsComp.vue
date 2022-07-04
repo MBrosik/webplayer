@@ -273,6 +273,9 @@
 </script>
 
 <style scoped>
+   *{
+      color:white;
+   }
    .music-controlls-container {
       background-color: #446c92;
 
